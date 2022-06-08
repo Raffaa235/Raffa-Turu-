@@ -23,12 +23,12 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
+  global.ownername = 'Raffa Turu' // Ganti Jadi Namamu
   global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
+  global.ownernomer = '6282230196826' // Owner Utama Istilahnya
+  global.botname = 'BOTZ TURU' // Ganti Jadi Nama Botmu
+  global.packname = 'BOTZ TURU ' // Sticker Weem
+  global.author = 'Raffa Turu' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
@@ -56,9 +56,9 @@
 
   // Edit Sesuai Kemauanmu
   global.mess = {
-  admin: '_Lu Admin? 🤨_',
+  admin: '_kamuAdmin? 🤨_',
   botAdmin: '_Bot Bukan Admin 😔_',
-  owner: '_Lu Bukan Owner Gw 😠_',
+  owner: '_kamu Bukan Owner ku 😠_',
   group: '_Khusus Group 😏_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
